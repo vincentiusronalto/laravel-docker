@@ -2,7 +2,7 @@
 
 this docker setup forked from https://github.com/aschmelyun/docker-compose-laravel by Andrew Schmelyun
 
-# How to run this project
+# How to setup
 1. Clone / download this project
 2. Make sure to have docker & docker-compose installed => running docker
 3. Install Postman desktop => for trying api
@@ -11,7 +11,7 @@ this docker setup forked from https://github.com/aschmelyun/docker-compose-larav
 6. All Laravel main code on src folder
 7. Log can be seen on src/storage/logs/laravel.log
 
-## How to run
+## How to run the server
 1. to start the docker run command `docker-compose up -d --build site`
 2. to make sure open localhost in browser and it will displaying laravel homepage
 
