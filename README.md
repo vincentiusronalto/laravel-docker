@@ -1,6 +1,6 @@
 # Laravel-Docker-MariaDB Project
 
-this docker setup forked from https://github.com/aschmelyun/docker-compose-laravel by Andrew Schmelyun
+this docker setup downloaded from https://github.com/aschmelyun/docker-compose-laravel by Andrew Schmelyun
 
 # How to setup
 1. Clone / download this project
