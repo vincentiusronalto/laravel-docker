@@ -10,10 +10,11 @@ this docker setup downloaded from https://github.com/aschmelyun/docker-compose-l
 5. Install Vscode and terminal => checking code and run terminal command
 6. All Laravel main code on src folder
 7. Log can be seen on src/storage/logs/laravel.log
+8. Browser to check homepage
 
 ## How to run the server
-1. to start the docker run command `docker-compose up -d --build site`
-2. to make sure open localhost in browser and it will displaying laravel homepage
+1. to start the docker, run command `docker-compose up -d --build site`
+2. to make sure the server is ready listening to request, open localhost in browser and it will displaying laravel homepage
 
 ## Migrate database up
 1. first change directory to src `cd src`
