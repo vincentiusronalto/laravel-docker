@@ -1,14 +1,15 @@
-# Laravel Docker Mysql(MariaDB) Project
+# Laravel-Docker-MariaDB Project
 
 this docker setup forked from https://github.com/aschmelyun/docker-compose-laravel by Andrew Schmelyun
 
 # How to run this project
-1. Make sure to have docker & docker-compose installed => running docker
-2. Install Postman desktop => for trying api
-3. Install Dbeaver => optional to check data in db
-4. Install Vscode and terminal => checking code and run terminal command
-5. All Laravel main code on src folder
-6. Log can be seen on src/storage/logs/laravel.log
+1. Clone / download this project
+2. Make sure to have docker & docker-compose installed => running docker
+3. Install Postman desktop => for trying api
+4. Install Dbeaver => optional to check data in db
+5. Install Vscode and terminal => checking code and run terminal command
+6. All Laravel main code on src folder
+7. Log can be seen on src/storage/logs/laravel.log
 
 ## How to run
 1. to start the docker run command `docker-compose up -d --build site`
