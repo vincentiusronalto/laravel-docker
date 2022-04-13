@@ -3,7 +3,7 @@
 this docker setup forked from https://github.com/aschmelyun/docker-compose-laravel by Andrew Schmelyun
 
 # How to run this project
-1. Mke sure have docker & docker-compose installed => running docker
+1. Make sure to have docker & docker-compose installed => running docker
 2. Install Postman desktop => for trying api
 3. Install Dbeaver => optional to check data in db
 4. Install Vscode and terminal => checking code and run terminal command
