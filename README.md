@@ -13,8 +13,7 @@ this docker setup forked from https://github.com/aschmelyun/docker-compose-larav
 
 ## How to run
 1. to start the docker run command `docker-compose up -d --build site`
-
-make sure open localhost in browser and will displaying laravel homepage
+2. to make sure open localhost in browser and it will displaying laravel homepage
 
 ## Migrate database up
 1. first change directory to src `cd src`
